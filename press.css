@@ -1,0 +1,176 @@
+.map {
+  background-image: url(/images/aimguud.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 778px;
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+.title {
+  background-image: url(Screenshot\ 2024-06-27\ at\ 16.03.33.png);
+  width: 15px;
+  margin: 56px;
+}
+.ms2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.unshaad-uzi {
+  background-color: blue;
+  color: aliceblue;
+  height: 60px;
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.rowsContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+.row {
+  display: flex;
+  align-items: center;
+}
+.row span {
+  font-weight: 700;
+}
+.hagas-jil {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.hagas {
+  background-image: url(/images/hagas\ jiliin\ ongo.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 378px;
+  height: 190px;
+  display: flex;
+  flex-direction: row;
+}
+.border {
+  border-bottom-style: groove;
+}
+.container {
+  width: 380px;
+  height: 380px;
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  overflow: auto;
+}
+
+.huree {
+  border-bottom: 1px solid grey;
+}
+.date {
+  color: gray;
+  font-size: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.ugnuud {
+  color: white;
+  border-bottom-style: groove;
+}
+.uyangaa {
+  background-image: url(/images/uyangahishig.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 380px;
+  width: 380px;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+.news {
+  background-image: url(/images/news.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 380px;
+  width: 380px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.email {
+  background-color: blue;
+  width: 75%;
+  height: 309px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.whitemail {
+  background-color: white;
+  width: 85%;
+  height: 229px;
+}
+.nairamdal {
+  background-image: url(images/nairamdal.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.park {
+  background-image: url(/images/paark.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.uurhai {
+  background-image: url(images/uurhai.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.buren {
+  background-image: url(images/buren.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.road {
+  background-image: url(images/zam.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.hariltsaa {
+  background-image: url(images/hariltsaa.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.people {
+  background-image: url(images/humuus.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 320px;
+  height: 188px;
+}
+.blue {
+  color: blue;
+  font-size: 10px;
+  font-weight: 200px;
+}
+.ug {
+  font-size: 25px;
+  font-weight: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
